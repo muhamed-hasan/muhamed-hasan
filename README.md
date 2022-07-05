@@ -6,7 +6,7 @@
 Skills: Flutter / SwiftUi/ JS / HTML / CSS / Database / Python
 
 - 🔭 I’m currently working on Flutter podcast project 
-- 🌱 I’m currently learning Node js 
+- 🌱 I’m currently learning Cloud development
 - 📫 How to reach me: muhamedmustafa3.14@gmail.com 
 
 
